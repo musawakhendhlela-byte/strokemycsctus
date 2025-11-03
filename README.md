@@ -1,2 +1,2 @@
 # strokemycsctus
-a website about aa paarty
+a website about a party
